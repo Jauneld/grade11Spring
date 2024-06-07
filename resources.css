@@ -1,0 +1,19 @@
+/* styles.css */
+
+.bg-yellow {
+  background-color: #FFF9C4; /* Light yellow color */
+}
+
+.resource-item {
+  border-bottom: 1px solid #ccc; /* Add a border line between resource items */
+}
+
+.resource-item img {
+  width: 150px; /* Set image width */
+  margin:12px;
+  height: 150px;
+}
+
+.resource-item h2 {
+  color: #FFC107; /* Yellow color for resource title */
+}

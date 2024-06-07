@@ -1,0 +1,65 @@
+/* styles.css */
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-light-blue {
+  background-color: #d0e7f9; /* Light blue color */
+}
+
+.text-primary {
+  color: #0d6efd; /* Bootstrap primary blue */
+}
+
+.text-dark-blue {
+  color: #003366; /* Dark blue color */
+}
+
+.accordion-button {
+  background-color: #d0e7f9; /* Light blue color for accordion button */
+  color: #003366; /* Dark blue text color */
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #a4c7e1; /* Slightly darker blue when expanded */
+  color: #003366;
+}
+
+.accordion-button:focus {
+  box-shadow: none; /* Remove the default Bootstrap focus shadow */
+}
+
+.code-box {
+  background-color: #e3f2fd; /* Light blue background for code box */
+  border: 1px solid #90caf9; /* Border color */
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+.pre-scrollable {
+  max-height: 340px;
+  overflow-y: scroll;
+}
+
+.navbar-toggler-icon {
+  color: #003366; /* Dark color for the toggler icon */
+}
+
+.accordion-item {
+  border-bottom: 1px solid #90caf9; /* Divider line in blue */
+}
+
+.btn-outline-primary {
+  color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.btn-outline-primary:hover {
+  color: #fff;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}

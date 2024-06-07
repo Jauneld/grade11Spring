@@ -1,0 +1,15 @@
+/* styles.css */
+
+.bg-yellow {
+  background-color: #FFF9C4; /* Light yellow color */
+}
+
+.bg-white {
+  background-color: #FFFFFF; /* White color */
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  max-height: 100%; /* Ensure images don't exceed the height of their containers */
+}

@@ -1,0 +1,13 @@
+/* styles.css */
+
+.bg-yellow {
+  background-color: #FFF9C4; /* Light yellow color */
+}
+
+.bg-dark-yellow {
+  background-color: #FFEB3B; /* Darker yellow color */
+}
+
+.navbar-toggler-icon {
+  color: #333; /* Dark color for the toggler icon */
+}
