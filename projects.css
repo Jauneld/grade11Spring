@@ -4,6 +4,7 @@ body, html {
   height: 100%;
   margin: 0;
   padding: 0; 
+  background-color: lightyellow;
 }
 
 .bg-yellow {
@@ -20,7 +21,7 @@ body, html {
 }
 
 .code-box {
-  background-color: #FFF9C4;
+  background-color: #FFF970;
   border: 1px solid #ddd;
   padding: 10px;
   border-radius: 5px;

@@ -1,4 +1,8 @@
 /* styles.css */
+body{
+  background-image: url(images/yeloow-heaer.jpg);
+}
+
 
 .bg-yellow {
   background-color: #FFF9C4; /* Light yellow color */
@@ -9,7 +13,16 @@
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 500px;
   height: auto;
   max-height: 100%; /* Ensure images don't exceed the height of their containers */
+  left:50px;
+  position: absolute;
 }
+
+.lead, .display-4, .d-grid{
+  position: relative;
+  left: 50%;
+  top: 70px;
+}
+
