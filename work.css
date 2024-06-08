@@ -18,11 +18,11 @@ html, body {
 }
 
 .projects-section {
-  background-image: url('images/figma-icon.png'); /* Replace with your image URL */
+  background-image: url('images/project.jpg'); /* Replace with your image URL */
 }
 
 .assignments-section {
-  background-image: url('assignments.jpg'); /* Replace with your image URL */
+  background-image: url('images/assignments.jpeg'); /* Replace with your image URL */
 }
 
 .text-overlay {
