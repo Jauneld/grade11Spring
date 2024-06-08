@@ -1,5 +1,9 @@
 /* styles.css */
 
+body{
+   background-color: #FFF9C4;
+}
+
 .bg-yellow {
   background-color: #FFF9C4; /* Light yellow color */
 }

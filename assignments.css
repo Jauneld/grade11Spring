@@ -4,7 +4,7 @@ body, html {
   height: 100%;
   margin: 0;
   padding: 0;
-  background-color: #d0e7f9;
+  background-color: #e3f2fd;
 }
 
 .bg-light-blue {
@@ -34,7 +34,7 @@ body, html {
 }
 
 .code-box {
-  background-color: #e3f2fd; /* Light blue background for code box */
+  background-color:#d0e7f9; /* Light blue background for code box */
   border: 1px solid #90caf9; /* Border color */
   padding: 10px;
   border-radius: 5px;
