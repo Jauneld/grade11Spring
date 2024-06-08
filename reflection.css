@@ -15,3 +15,8 @@ body{
 .navbar-toggler-icon {
   color: #333; /* Dark color for the toggler icon */
 }
+
+.blank{
+  position: absolute;
+  left:10px;
+}

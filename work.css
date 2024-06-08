@@ -49,3 +49,8 @@ html, body {
   padding-right: 0;
   padding-left: 0;
 }
+
+.blank{
+  position: absolute;
+  left:10px;
+}

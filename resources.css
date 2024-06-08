@@ -21,3 +21,8 @@ body{
 .resource-item h2 {
   color: #FFC107; /* Yellow color for resource title */
 }
+
+.blank{
+  position: absolute;
+  left:10px;
+}
