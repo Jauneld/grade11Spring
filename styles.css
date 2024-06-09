@@ -1,6 +1,8 @@
 /* styles.css */
 body{
   background-image: url(images/yeloow-heaer.jpg);
+  max-height: 100%;
+  height: auto;
 }
 
 

@@ -20,3 +20,14 @@ body{
   position: absolute;
   left:10px;
 }
+
+
+
+
+.img-fluid{
+  max-width: 45%;
+  height: auto;
+  max-height: 100%; /* Ensure images don't exceed the height of their containers */
+  right:2%;
+  position: absolute;
+}
